@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaileshdev1997" target="blank"><img src="https://img.shields.io/twitter/follow/shaileshdev1997?logo=twitter&style=for-the-badge" alt="shaileshdev1997" /></a> </p>
 
-- 🔭 I’m currently working on [Keenai Wealth]([https://apps.apple.com/app/interconn-by-adroit-vantage/id6449159643](https://play.google.com/store/apps/details?id=com.wealth.management.vantage.ai)
+- 🔭 I’m currently working on [Keenai Wealth]([https://apps.apple.com/app/interconn-by-adroit-vantage/id6449159643](https://play.google.com/store/apps/details?id=com.wealth.management.vantage.ai )
 
 - 🌱 I’m currently learning **Maya and Blender, diving into the world of 3D modeling, animation, and visual effects. It's exciting to explore how these powerful tools can bring digital creations to life, whether for game development, film, or virtual reality projects. Each new skill learned opens up endless possibilities for creativity!**
 
